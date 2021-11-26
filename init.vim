@@ -54,7 +54,7 @@ let g:airline#extensions#tabline#left_alt_sep = '|'
 let g:airline_theme='base16'
 
 " list of CoC extensions needed
-let g:coc_global_extensions = ['coc-tslint-plugin', 'coc-tsserver', 'coc-css', 'coc-html', 'coc-json', 'coc-prettier', 'coc-yaml', 'coc-go', 'coc-pyright']
+let g:coc_global_extensions = ['coc-tslint-plugin', 'coc-tsserver', 'coc-css', 'coc-html', 'coc-json', 'coc-prettier', 'coc-yaml', 'coc-go', 'coc-pyright', 'coc-docker']
 
 " set
 let g:toggleterm_terminal_mapping = '<C-t>'
